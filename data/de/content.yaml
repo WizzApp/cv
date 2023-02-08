@@ -24,37 +24,31 @@ Experience:
         Date: Jan 2021 - Present
         Details:
           - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
+          - Webapplikation zum Erfassen von Sustainability Contributions, Architektur, Projektsetup, Onboarding und Coaching von neuen Mitarbeitern
+        Badges: ['React', 'TypeScript', 'Tailwind', 'HTML', 'CSS', 'NestJs', 'Azure DevOps', 'Git', 'Agile']
       - Title: Expert Software Engineer
         Date: Jan 2018 - Dez 2020
         Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
+          - IoT-Platform und Backend zur Maschinenverwaltung für Garten- und Landschaftsbauer, Teamlead Frontend, De#nition der Schnittstellen, Umsetzung des Frontend-Teils der User-Stories
+        Badges: ['React', 'TypeScript', 'Tailwind', 'HTML', 'CSS', 'Azure DevOps', 'Git', 'Agile', 'IoT']
       - Title: Advanced Software Engineer
         Date: Mar 2016 - Dez 2019
         Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
+          - Entwicklungssupport für eine große Banking-App Umsetzung von User-Stories, Beheben von Bugs, Testing
+          - Entwicklungssupport für eine Mobile App zur Steuerung und Wartung von Pumpen über Bluetooth
+          - Weiterentwicklung einer Windows-Applikation zum Kalibrieren von Hörgeräten Umsetzung von User-Stories in der Applikation, Testing
+        Badges: ['Aurelia', 'TypeScript', 'HTML', 'CSS', 'Android', 'WPF', 'Cordova', 'Git', 'Agile']
   - Employer: webix solutions GmbH
     Place: Stuttgart, DE
     Positions:
       - Title: Software-Entwickler
-        Date: Jan 2018 - Mar 2019
+        Date: Sep 2005 - Feb 2016
         Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
+          - Anpassung eines DMS an öundenwünsche, Support beim Betrieb, Erfassung der Anforderungen, Implementierung, Test und Deployment in der Live-Umgebung
+          - Implementierung einer Webapplikation zur vereinfachten öollaboration aller Beteiligten bei Firmenübernahmen. Implementierung der User-Stories im Front- und Backend
+          - Neuentwicklung eines Hotel- und Restaurantführers, Implementierung der Datenmigration vom Alt- zum Neusystem
+          - Entwicklung und Support eines Order Processing Systems mit Windows Forms Management Applikation, Schnittstellen und B2C-Webfrontends, Integration und Wartung eines CI-Servers
+        Badges: ['ASP.NET', 'Windows Forms', 'C#', 'Java', 'JavaScript', 'HTML', 'CSS', 'SQL']
 
 Education:
   - Course: Staatl gepr. Informatiker
