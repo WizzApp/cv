@@ -8,9 +8,11 @@ BasicInfo:
     - Icon: fas fa-envelope
       Info: daniel.rosendorf@gmail.com
     - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://www.linkedin.com/in/d-rosendorf" target="_blank">linkedin.com/in/d-rosendorf</a>
-    - Icon: fas fa-globe
       Info: <a class="contact__link" href="https://daniel-rosendorf.de" target="_blank">daniel-rosendorf.de</a>
+    - Icon: fab fa-linkedin
+      Info: <a class="contact__link" href="https://www.linkedin.com/in/d-rosendorf" target="_blank">linkedin.com/in/d-rosendorf</a>
+    - Icon: fab fa-github
+      Info: <a class="contact__link" href="https://www.github.com/wizzapp" target="_blank">github.com/wizzapp</a>
     - Icon: fas fa-map-marker-alt
       Info: Lauffen am Neckar
 
