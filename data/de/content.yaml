@@ -14,23 +14,26 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Lauffen am Neckar
 
-Profile: Softwareentwickler
+Profile: Softwareentwickler und Lead Engineer mit Fokus auf webbasierte Projekte und Frontend-Entwicklung. 
+  Mit 18 Jahren Erfahrung in verschiedenen Desktop- und Webtechnologien und einem Interesse an aktuellen Technologien unterstütze ich bei der Entwicklung
+  von nutzer-zentrierten Lösungen. Außerdem versuche ich, mein Wissen so gut wie möglich im Team zu verteilen, um dem Team ein möglichst selbständiges und umnabhängiges
+  Arbeiten zu ermöglichen.
 
 Experience:
   - Employer: Zühlke Engineering GmbH
     Place: Stuttgart, DE
     Positions:
       - Title: Lead Engineer
-        Date: Jan 2021 - Present
+        Date: Jan 2021 - Heute
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
+          - Webbasierte Platform zum Austausch und zur Verarbeitung von medizinischen Bilddaten, Technical Lead Frontend, Projektsetup, Frontend-Architektur
           - Webapplikation zum Erfassen von Sustainability Contributions, Architektur, Projektsetup, Onboarding und Coaching von neuen Mitarbeitern
-        Badges: ['React', 'TypeScript', 'Tailwind', 'HTML', 'CSS', 'NestJs', 'Azure DevOps', 'Git', 'Agile']
+        Badges: ['React', 'TypeScript', 'Tailwind', 'HTML', 'CSS', 'NestJs', 'Azure', 'Azure DevOps', 'Git', 'Agile', 'Scrum']
       - Title: Expert Software Engineer
         Date: Jan 2018 - Dez 2020
         Details:
           - IoT-Platform und Backend zur Maschinenverwaltung für Garten- und Landschaftsbauer, Teamlead Frontend, De#nition der Schnittstellen, Umsetzung des Frontend-Teils der User-Stories
-        Badges: ['React', 'TypeScript', 'Tailwind', 'HTML', 'CSS', 'Azure DevOps', 'Git', 'Agile', 'IoT']
+        Badges: ['React', 'TypeScript', 'Tailwind', 'HTML', 'CSS', 'Azure', 'Azure DevOps', 'Git', 'Agile', 'IoT']
       - Title: Advanced Software Engineer
         Date: Mar 2016 - Dez 2019
         Details:
@@ -60,33 +63,28 @@ References:
 
 
 Skills:
-  - Family: Programming
+  - Family: Sprachen
     Items:
-      - Python
-      - HTML (including Jinja)
-      - Javascript
+      - TypeScript
+      - HTML
       - CSS
       - SASS
       - SQL
       - C#
-      - Bash
-      - MATLAB
+      - PowerShell
   - Family: Frameworks
     Items:
-      - Django
-      - Flask
-      - Hugo
       - React
+      - Tailwind
+      - .NET
+      - Pulumi
   - Family: Developer Tools
     Items:
+      - NX
       - Git
+      - Azure DevOps
+      - Azure
       - Docker
-      - Jenkins
-      - AWS
-  - Family: Misc
-    Items:
-      - Adobe Tools
-      - LaTeX
 
 Languages:
   - Name: Deutsch
