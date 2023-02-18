@@ -41,7 +41,7 @@ Experience:
         Details:
           - Entwicklungssupport für eine große Banking-App Umsetzung von User-Stories, Beheben von Bugs, Testing
           - Entwicklungssupport für eine Mobile App zur Steuerung und Wartung von Pumpen über Bluetooth
-          - Weiterentwicklung einer Windows-Applikation zum Kalibrieren von Hörgeräten Umsetzung von User-Stories in der Applikation, Testing
+          - Weiterentwicklung einer Windows-Applikation zum Kalibrieren von Hörgeräten, Umsetzung von User-Stories in der Applikation, Testing
         Badges: ['Aurelia', 'TypeScript', 'HTML', 'CSS', 'Android', 'WPF', 'Cordova', 'Git', 'Agile']
   - Employer: webix solutions GmbH
     Place: Stuttgart, DE
@@ -49,8 +49,8 @@ Experience:
       - Title: Software-Entwickler
         Date: Sep 2005 - Feb 2016
         Details:
-          - Anpassung eines DMS an öundenwünsche, Support beim Betrieb, Erfassung der Anforderungen, Implementierung, Test und Deployment in der Live-Umgebung
-          - Implementierung einer Webapplikation zur vereinfachten öollaboration aller Beteiligten bei Firmenübernahmen. Implementierung der User-Stories im Front- und Backend
+          - Anpassung eines Dokumentenmanagementsystems an Kundenwünsche, Support beim Betrieb, Erfassung der Anforderungen, Implementierung, Test und Deployment in der Live-Umgebung
+          - Implementierung einer Webapplikation zur vereinfachten Kollaboration aller Beteiligten bei Firmenübernahmen. Implementierung der User-Stories im Front- und Backend
           - Neuentwicklung eines Hotel- und Restaurantführers, Implementierung der Datenmigration vom Alt- zum Neusystem
           - Entwicklung und Support eines Order Processing Systems mit Windows Forms Management Applikation, Schnittstellen und B2C-Webfrontends, Integration und Wartung eines CI-Servers
         Badges: ['ASP.NET', 'Windows Forms', 'C#', 'Java', 'JavaScript', 'HTML', 'CSS', 'SQL']
