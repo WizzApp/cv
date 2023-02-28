@@ -4,9 +4,9 @@ BasicInfo:
   Photo: img/roda_648.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info: +49 173 3628992
+      Info: <a class="contact__link" href="tel:491733628992">+49 173 3628992</a>
     - Icon: fas fa-envelope
-      Info: daniel.rosendorf@gmail.com
+      Info: <a class="contact__link" href="mailto:daniel.rosendorf@gmail.com">daniel.rosendorf@gmail.com</a>
     - Icon: fas fa-globe
       Info: <a class="contact__link" href="https://daniel-rosendorf.de" target="_blank">daniel-rosendorf.de</a>
     - Icon: fab fa-linkedin
