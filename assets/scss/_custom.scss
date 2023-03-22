@@ -1,3 +1,13 @@
 .avatar__img {
     top: 60%;
 }
+
+@media print {
+    #education {
+        page-break-before: always;
+    }
+
+    @page :left {
+        margin-top: 60px;
+    }
+}

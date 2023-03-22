@@ -28,14 +28,14 @@ Experience:
       - Title: Lead Engineer
         Date: Jan 2021 - Heute
         Details:
-          - Webbasierte Platform zum Austausch und zur Verarbeitung von medizinischen Bilddaten, Technical Lead Frontend, Projektsetup, Frontend-Architektur
+          - Webbasierte Platform zum Austausch und zur Verarbeitung von medizinischen Bilddaten, Technical Lead/Teamlead Frontend, Projektsetup, Frontend-Architektur
           - Webapplikation zum Erfassen von Sustainability Contributions, Architektur, Projektsetup, Onboarding und Coaching von neuen Mitarbeitern
-        Badges: ['React', 'TypeScript', 'Tailwind', 'HTML', 'CSS', 'NestJs', 'Azure', 'Azure DevOps', 'Git', 'Agile', 'Scrum']
+        Badges: ['React', 'TypeScript', 'TailwindCSS', 'HTML', 'CSS', 'NestJs', 'Azure', 'Azure DevOps', 'Git', 'Agile']
       - Title: Expert Software Engineer
         Date: Jan 2018 - Dez 2020
         Details:
-          - IoT-Platform und Backend zur Maschinenverwaltung für Garten- und Landschaftsbauer, Teamlead Frontend, De#nition der Schnittstellen, Umsetzung des Frontend-Teils der User-Stories
-        Badges: ['React', 'TypeScript', 'Tailwind', 'HTML', 'CSS', 'Azure', 'Azure DevOps', 'Git', 'Agile', 'IoT']
+          - IoT-Platform und Backend zur Maschinenverwaltung für Garten- und Landschaftsbauer, Technical Lead/Teamlead Frontend, De#nition der Schnittstellen, Umsetzung des Frontend-Teils der User-Stories
+        Badges: ['React', 'TypeScript', 'TailwindCSS', 'HTML', 'CSS', 'Azure', 'Azure DevOps', 'Git', 'Agile', 'IoT']
       - Title: Advanced Software Engineer
         Date: Mar 2016 - Dez 2019
         Details:
