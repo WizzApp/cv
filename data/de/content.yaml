@@ -37,7 +37,7 @@ Experience:
           - IoT-Platform und Backend zur Maschinenverwaltung für Garten- und Landschaftsbauer, Technical Lead/Teamlead Frontend, De#nition der Schnittstellen, Umsetzung des Frontend-Teils der User-Stories
         Badges: ['React', 'TypeScript', 'TailwindCSS', 'HTML', 'CSS', 'Azure', 'Azure DevOps', 'Git', 'Agile', 'IoT']
       - Title: Advanced Software Engineer
-        Date: Mar 2016 - Dez 2019
+        Date: Mar 2016 - Dez 2017
         Details:
           - Entwicklungssupport für eine große Banking-App Umsetzung von User-Stories, Beheben von Bugs, Testing
           - Entwicklungssupport für eine Mobile App zur Steuerung und Wartung von Pumpen über Bluetooth
@@ -62,6 +62,15 @@ Education:
     Details: Medien und Kommunikation
 
 References:
+  - Name: Andrea Spielvogel
+    Relation: Ehem. Vorgesetzte bei Zühlke Engineering GmbH
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +49 178 1669777
+    # - Icon: fas fa-envelope
+    #   Info: contact@person-one.com
+    - Icon: fas fa-map-marker-alt
+      Info: Stuttgart
 
 
 Skills:
