@@ -28,20 +28,26 @@ Experience:
       - Title: Lead Engineer
         Date: Jan 2021 - Heute
         Details:
-          - Webbasierte Platform zum Austausch und zur Verarbeitung von medizinischen Bilddaten, Technical Lead/Teamlead Frontend, Projektsetup, Frontend-Architektur
-          - Webapplikation zum Erfassen von Sustainability Contributions, Architektur, Projektsetup, Onboarding und Coaching von neuen Mitarbeitern
+          - Webbasierte Platform zum Austausch und zur Verarbeitung von medizinischen Bilddaten <br />
+            Technical Lead/Teamlead Frontend, Projektsetup, Frontend-Architektur
+          - Webapplikation zum Erfassen von Sustainability Contributions <br />
+            Architektur, Projektsetup, Onboarding und Coaching von neuen Mitarbeitern
         Badges: ['React', 'TypeScript', 'TailwindCSS', 'HTML', 'CSS', 'NestJs', 'Azure', 'Azure DevOps', 'Git', 'Agile']
       - Title: Expert Software Engineer
         Date: Jan 2018 - Dez 2020
         Details:
-          - IoT-Platform und Backend zur Maschinenverwaltung für Garten- und Landschaftsbauer, Technical Lead/Teamlead Frontend, De#nition der Schnittstellen, Umsetzung des Frontend-Teils der User-Stories
+          - IoT-Platform und Backend zur Maschinenverwaltung für Garten- und Landschaftsbauer <br />
+            Technical Lead/Teamlead Frontend, De#nition der Schnittstellen, Umsetzung des Frontend-Teils der User-Stories
         Badges: ['React', 'TypeScript', 'TailwindCSS', 'HTML', 'CSS', 'Azure', 'Azure DevOps', 'Git', 'Agile', 'IoT']
       - Title: Advanced Software Engineer
         Date: Mar 2016 - Dez 2017
         Details:
-          - Entwicklungssupport für eine große Banking-App Umsetzung von User-Stories, Beheben von Bugs, Testing
-          - Entwicklungssupport für eine Mobile App zur Steuerung und Wartung von Pumpen über Bluetooth
-          - Weiterentwicklung einer Windows-Applikation zum Kalibrieren von Hörgeräten, Umsetzung von User-Stories in der Applikation, Testing
+          - Entwicklungssupport für eine große Banking-App  <br /> 
+            Entwicklungsunterstützung als erster Entwickler vom neuen Dienstleister, Umsetzung von User-Stories, Beheben von Bugs, Testing
+          - Entwicklungssupport für eine Mobile App zur Steuerung und Wartung von Pumpen über Bluetooth <br />
+            Kurzfristiger Support beim Beheben von Bugs und Testing
+          - Weiterentwicklung einer Windows-Applikation zum Kalibrieren von Hörgeräten <br />
+            Umsetzung von User-Stories, Support und Erweiterung des bestehenden Kundenteams, Testing
         Badges: ['Aurelia', 'TypeScript', 'HTML', 'CSS', 'Android', 'WPF', 'Cordova', 'Git', 'Agile']
   - Employer: webix solutions GmbH
     Place: Stuttgart, DE
@@ -49,10 +55,14 @@ Experience:
       - Title: Software-Entwickler
         Date: Sep 2005 - Feb 2016
         Details:
-          - Anpassung eines Dokumentenmanagementsystems an Kundenwünsche, Support beim Betrieb, Erfassung der Anforderungen, Implementierung, Test und Deployment in der Live-Umgebung
-          - Implementierung einer Webapplikation zur vereinfachten Kollaboration aller Beteiligten bei Firmenübernahmen. Implementierung der User-Stories im Front- und Backend
-          - Neuentwicklung eines Hotel- und Restaurantführers, Implementierung der Datenmigration vom Alt- zum Neusystem
-          - Entwicklung und Support eines Order Processing Systems mit Windows Forms Management Applikation, Schnittstellen und B2C-Webfrontends, Integration und Wartung eines CI-Servers
+          - Anpassung eines Dokumentenmanagementsystems an Kundenwünsche <br />
+            Support beim Betrieb, Erfassung der Anforderungen, Implementierung, Test und Deployment in der Live-Umgebung
+          - Implementierung einer Webapplikation zur vereinfachten Kollaboration aller Beteiligten bei Firmenübernahmen <br />
+            Implementierung der User-Stories im Front- und Backend
+          - Neuentwicklung eines Hotel- und Restaurantführers <br /> 
+            Implementierung der Datenmigration vom Alt- zum Neusystem, Implementierung des Frontends, u.a. inkl. routenbasierter Suche
+          - Entwicklung und Support eines Order Processing Backoffice Systems <br />
+            Implementierung/Erweiterung der Windows Forms Applikation, Schnittstellen und B2C-Webfrontends, Integration und Wartung eines CI-Servers
         Badges: ['ASP.NET', 'Windows Forms', 'C#', 'Java', 'JavaScript', 'HTML', 'CSS', 'SQL']
 
 Education:
@@ -69,8 +79,21 @@ References:
       Info: +49 178 1669777
     # - Icon: fas fa-envelope
     #   Info: contact@person-one.com
+    - Icon: fab fa-linkedin
+      Info: https://www.linkedin.com/in/andrea-spielvogel/
     - Icon: fas fa-map-marker-alt
       Info: Stuttgart, DE
+  - Name: Dr. Daniel Georges
+    Relation: Ehem. Vorgesetzter bei Zühlke Engineering GmbH
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +49 173 9917239
+    - Icon: fas fa-envelope
+      Info: daniel.georges@arkensor.com
+    - Icon: fab fa-linkedin
+      Info: https://www.linkedin.com/in/dgeorges/
+    - Icon: fas fa-map-marker-alt
+      Info: Pfullingen, DE
 
 
 Skills:
